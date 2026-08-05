@@ -31,6 +31,18 @@ The rule of five states that poor absorption or permeability are more likely whe
 
 -QED 
 
+높을수록 drug likeness가 커진다. drug likeness를 정량화 한 measure.
+
+-Lead Like
+
+Hit -> Lead -> Drug
+
+- Synthetic Accessibility Score (SAS)
+Estimation of synthetic accessibility score of drug-like molecules based on molcule complexity and fragment contributions.
+합성하기 어렵나 본다. 굉장히 중요한 수치 중 하나..
+
+SAS = fragment score - complexity penalty
+
 
 
 
